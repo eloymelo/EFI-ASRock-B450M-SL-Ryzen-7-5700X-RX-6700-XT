@@ -1,0 +1,1 @@
+# EFI-ASRock-B450M-SL-Ryzen-7-5700X-RX-6700-XT
