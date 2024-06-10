@@ -18,7 +18,7 @@
 - Broadcom BCM4360 Wifi/Bluetooth
 
 ## What works
-- macOS Catalina, macOS Big Sur, macOS Monterey, macOS Ventura and macOS Sonoma
+- macOS Monterey, macOS Ventura and macOS Sonoma
 - Audio (USB Connection) **I haven't tested the audio jack**
 - All USB/USB-C ports (they are mapped)
 - iCloud related services (Drive, iMessage, Facetime, etc)
