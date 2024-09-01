@@ -54,7 +54,7 @@
 - XLNCUSBFix.kext
 
 ## Keep in mind:
-- You need to add the NootRX.kext after the install so you can get the hardware acceleration.
+- You need to add the [NootRX.kext](https://github.com/ChefKissInc/NootRX) after the install so you can get the hardware acceleration.
 
 ## Thanks/Credits
 - [Opencore Team](https://dortania.github.io/getting-started/)
