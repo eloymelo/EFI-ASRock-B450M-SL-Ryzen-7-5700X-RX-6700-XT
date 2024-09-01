@@ -2,7 +2,7 @@
 
 # ASRock B450M Steel Legend + Ryzen 7 5700X + RX 6700 XT
 
-![about-12 3 1](https://github.com/eloymelo/EFI-ASRock-B450M-SL-Ryzen-7-5700X-RX-6700-XT/blob/5e968a20d1199585a25b58cc22a80b762c06d65f/Images/aboutthismac.png?raw=true)
+![about-12 3 1](Images/aboutthismac.png)
 
 **SMBIOS: iMacPro1,1**
 <br>
