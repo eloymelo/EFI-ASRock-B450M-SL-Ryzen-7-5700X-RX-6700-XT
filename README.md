@@ -6,7 +6,7 @@
 
 **SMBIOS: iMacPro1,1**
 <br>
-**Latest working macOS**: Ventura 13.6.7
+**Latest working macOS**: Sonoma 14.6.1
 <br>
 **Current OpenCore version**: 1.0.0
 
@@ -19,7 +19,7 @@
 
 ## What works
 - macOS Monterey, macOS Ventura and macOS Sonoma
-- Audio (USB Connection) **I haven't tested the audio jack**
+- Audio
 - All USB/USB-C ports (they are mapped)
 - iCloud related services (Drive, iMessage, Facetime, etc)
 - Temperature monitoring for everything
@@ -35,12 +35,14 @@
 ## Kexts used:
 - AMD-USB-Map.kext
 - AMDRyzenCPUPowerManagement.kext
+- AMFIPass.kext
 - AppleALC.kext
 - AppleMCEReporterDisabler.kext
 - FeatureUnlock.kext
 - HibernationFixup.kext
+- IO80211FamilyLegacy.kext
+- IOSkywalkFamily.kext
 - Lilu.kext
-- NootRX.kext
 - NVMeFix.kext
 - RadeonSensor.kext
 - RealtekRTL8111.kext
@@ -52,7 +54,7 @@
 - XLNCUSBFix.kext
 
 ## Keep in mind:
-- You need to remove the NootRX.kext in order to have a successfully install. It will not work if you do not remove it before a fresh install of the macOS.
+- You need to add the NootRX.kext after the install so you can get the hardware acceleration.
 
 ## Thanks/Credits
 - [Opencore Team](https://dortania.github.io/getting-started/)
